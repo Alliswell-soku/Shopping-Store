@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "type": "tshirt",
+      "gender": "male",
+      "size": "large",
+      "color": "blue",
+      "image": "../imgs/blue-tshirt.png"
+    },
+    {
+      "type": "pants",
+      "gender": "female",
+      "size": "small",
+      "color": "pink",
+      "image": "../imgs/pink-pants.png"
+    },
+    {
+      "type": "pants",
+      "gender": "female",
+      "size": "small",
+      "color": "blue",
+      "image": "../imgs/blue-pants.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "size": "large",
+      "color": "orange",
+      "image": "../imgs/orange-tshirt.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "male",
+      "size": "large",
+      "color": "orange",
+      "image": "../imgs/orange-tshirt.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "female",
+      "size": "large",
+      "color": "blue",
+      "image": "../imgs/blue-skirt.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "size": "large",
+      "color": "pink",
+      "image": "../imgs/pink-tshirt.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "male",
+      "size": "large",
+      "color": "pink",
+      "image": "../imgs/pink-tshirt.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "female",
+      "size": "small",
+      "color": "pink",
+      "image": "../imgs/pink-skirt.png"
+    },
+    {
+      "type": "pants",
+      "gender": "male",
+      "size": "small",
+      "color": "orange",
+      "image": "../imgs/orange-pants.png"
+    },
+    {
+      "type": "pants",
+      "gender": "male",
+      "size": "large",
+      "color": "pink",
+      "image": "../imgs/pink-pants.png"
+    },
+    {
+      "type": "pants",
+      "gender": "female",
+      "size": "large",
+      "color": "orange",
+      "image": "../imgs/orange-pants.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "size": "large",
+      "color": "pink",
+      "image": "../imgs/pink-tshirt.png"
+    },
+    {
+      "type": "pants",
+      "gender": "male",
+      "size": "large",
+      "color": "blue",
+      "image": "../imgs/blue-pants.png"
+    },
+    {
+      "type": "skirt",
+      "gender": "female",
+      "size": "small",
+      "color": "orange",
+      "image": "../imgs/orange-skirt.png"
+    }
+  ]
+}
