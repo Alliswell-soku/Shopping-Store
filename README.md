@@ -1,7 +1,9 @@
-# shopping
- Javascript / Json
+# Shopping Store
+ 
+Json　／　Javascriptを利用して作りました。
 
 ---
+
 ## index.html ファイル開かないでください
 Live serverではなく普通に開くと下の写真のように作動できません。
 
